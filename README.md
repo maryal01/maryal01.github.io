@@ -1,1 +1,2 @@
-Personal Website \n link: https://www.maryal01.github.io
+Personal Website 
+link: https://maryal01.github.io/
