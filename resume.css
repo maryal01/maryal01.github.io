@@ -19,12 +19,13 @@ body {
 
 .work-place{
 	font-weight: bold;
-	font-family: "Courier New";
+	font-family: "Times New Roman";
 }
 
 .work-title{
 	line-height: 0;
-	font-family: "Times New Roman";
+	font-weight: bold;
+	font-family: "Courier New";
 	color:#263238;
 }
 
