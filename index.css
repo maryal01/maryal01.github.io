@@ -1,0 +1,24 @@
+h1 {
+	font-size: 28px;
+	background-color: #0277BD;
+	color: #c7ecee;
+	border-style: solid;
+	text-align: center;
+}
+img{
+	width: 400px;
+    height: 250px;
+    
+}
+div{
+	float: right;
+    border-style: solid;
+    border-color: #73AD21;
+    padding: 10px;
+}
+
+body {
+	background-color: #0097A7;
+	font-family: "Comic Sans MS";
+	font-size: 20px;
+}
