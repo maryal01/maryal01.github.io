@@ -1,0 +1,36 @@
+.skills{
+
+}
+
+.activities{
+
+}
+
+.work-place{
+
+}
+
+.work-title{
+
+}
+
+h1{
+	text-align: center;
+	border-color: white;
+	border-style: solid;
+	color: white;
+	background-color: gray;
+}
+
+h3{
+	border-color: #9E9E9E;
+	border-style: solid;
+	color: #607D8B;
+	background-color: #9E9E9E;
+}
+
+body {
+	background-color: #BDBDBD;
+	font-family: "Comic Sans MS";
+	font-size: 20px;
+}
