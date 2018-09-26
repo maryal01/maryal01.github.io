@@ -1,3 +1,8 @@
+body {
+	background-color: #dfe4ea;
+	font-family: "Courier New";
+	font-size: 20px;
+}
 h1 {
 	font-size: 28px;
 	background-color: #0277BD;
@@ -6,19 +11,34 @@ h1 {
 	text-align: center;
 }
 img{
-	width: 400px;
-    height: 250px;
-    
+	width: 600px;
+    height: 450px;
 }
-div{
-	float: right;
+div#image{
+	margin: auto;
     border-style: solid;
-    border-color: #73AD21;
-    padding: 10px;
+    border-color: #2f3542;
+    width: 600px;
+    height: 500px;
+    background: #2f3542;
+}
+p#caption{
+	color: #f1f2f6;
+	text-align: center;
 }
 
-body {
-	background-color: #0097A7;
-	font-family: "Courier New";
-	font-size: 20px;
+
+div#links{
+	margin: auto;
+	width: 300px;
+    height: 500px;
+    font-weight: bold;
 }
+a{
+	color:#2f3542;
+    text-decoration: none;
+    font-size:28px;
+    line-height: 2;
+    padding: 5px;
+}
+
