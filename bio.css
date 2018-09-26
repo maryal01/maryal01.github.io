@@ -8,13 +8,21 @@ h4 {
 
 #header{
 	background-color: #aaa69d;
-	border-color: white;
+	border-color: #aaa69d;
 	border-style: solid;
 }
 body {
-	background-color: #dfe4ea;
+	background-color: #f7f1e3;
 	font-family: "Calibri";
 	font-size: 20px;
+}
+p{
+	color: #84817a;
+	text-align: center;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 20px;
+
 }
 
 a{
