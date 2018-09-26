@@ -1,5 +1,5 @@
 body {
-	background-color: #BDBDBD;
+	background-color: #CAD3C8;
 	font-family: "Helvetica";
 	font-size: 18px;
 }
@@ -8,12 +8,11 @@ body {
 	font-size: 18px;
 	line-height: 0.6;
 	font-style: italic;
+	padding-left: 5px;
 }
 
 .activities{
 	color: #424242;
-	border-color: #E0E0E0;
-	border-style: solid;
 	line-height: 2;
 }
 
@@ -31,17 +30,17 @@ body {
 
 h1{
 	text-align: center;
-	border-color: white;
+	border-color: #84817a;
 	border-style: solid;
 	color: white;
-	background-color: gray;
+	background-color: #84817a;
 }
 
 h3{
-	border-color: #9E9E9E;
+	border-color: #aaa69d;
 	border-style: solid;
-	color: #607D8B;
-	background-color: #9E9E9E;
+	color: #2C3A47;
+	background-color: #aaa69d;
 	font-size: 24px;
 }
 
